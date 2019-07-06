@@ -1,0 +1,2 @@
+# AI-NLP-Codecamp
+notes
